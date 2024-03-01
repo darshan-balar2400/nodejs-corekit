@@ -1,6 +1,6 @@
 {
   "name": "nodejs-corekit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nodejs-corekit is a comprehensive utility library designed to streamline common development tasks and enhance code efficiency. With a focus on error handling, asynchronous operations, and connection management, nodejs-corekit provides a robust set of tools to alleviate repetitive tasks and promote code reusability. Whether you're dealing with error handling scenarios, managing asynchronous operations, or handling connections to various resources, nodejs-corekit offers a versatile and extensible solution to meet your needs. With future expansions planned to further enhance its capabilities, nodejs-corekit serves as a central hub for developers seeking to optimize their workflow and build more reliable applications.",
   "main": "index.js",
   "scripts": {

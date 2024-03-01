@@ -6,4 +6,6 @@ const Connection = (URL) => {
     }); 
 }
 
+module.exports = Connection;
+
 

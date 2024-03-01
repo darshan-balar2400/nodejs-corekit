@@ -25,3 +25,5 @@ const Error = (error,req,res,next) => {
 
     next();
 }
+
+module.exports = Error;

@@ -8,3 +8,6 @@ const UnHandledException = () => {
   });
   
 };
+
+
+module.exports = UnHandledException;
